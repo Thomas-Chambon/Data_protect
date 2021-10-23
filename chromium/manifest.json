@@ -1,0 +1,22 @@
+{
+    "name": "Data protect",
+    "version": "0.0.0.1",
+    "manifest_version": 2,
+    "description": "A Chromium extension to decline data collection by Google",
+    "icons": {
+        "128": "icons/128.png"
+    },
+    "browser_action": {
+      "default_title": "A Chromium extension to decline data collection by Google"
+    },
+    "background": {
+        "scripts": ["popup/background.js"],
+        "persistent": true
+      },
+    "permissions": [
+        "https://*/*",
+        "http://*/*",
+        "tabs"
+      ],
+      "web_accessible_resources": ["popup/change_value.js"]
+}
