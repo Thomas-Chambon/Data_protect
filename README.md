@@ -5,3 +5,13 @@ A Chromium extension to decline data collection by Google
 Data protect is a chromium extension (Google Chrome & Microsoft Edge) that automatically refuses any data collection from Google.  
 
 On the specific data consent pages of Google search and Youtube, Data_protect automatically checks the disable collection and sends the form.
+
+## How to install ?
+
+1) Download Data_protect
+2) Enable developer mode on Chrome (chrome://extensions) or on Edge (edge://extensions)
+3) Load the unpacked extension
+
+## Author
+
+Thomas Chambon
