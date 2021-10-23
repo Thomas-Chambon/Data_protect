@@ -9,7 +9,7 @@ On the specific data consent pages of Google search and Youtube, Data_protect au
 ## How to install ?
 
 1) Download Data_protect
-2) Enable developer mode on Chrome (chrome://extensions) or on Edge (edge://extensions) -> https://developer.chrome.com/docs/extensions/mv3/getstarted/
+2) Enable developer mode on Chrome (chrome://extensions) or on Edge (edge://extensions) https://developer.chrome.com/docs/extensions/mv3/getstarted/
 3) Load the unpacked extension
 
 ## Author
