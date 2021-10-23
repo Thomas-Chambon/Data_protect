@@ -12,6 +12,8 @@ On the specific data consent pages of Google search and Youtube, Data_protect au
 2) Enable developer mode on Chrome (chrome://extensions) or on Edge (edge://extensions) https://developer.chrome.com/docs/extensions/mv3/getstarted/
 3) Load the unpacked extension
 
+![Installation_tutorial](img/screen_tutorial.png)
+
 ## Author
 
 Thomas Chambon
